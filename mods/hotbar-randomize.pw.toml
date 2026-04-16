@@ -1,0 +1,13 @@
+name = "Hotbar Randomize"
+filename = "blockrandomizer-0.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c7ad18ef3b83af834023834e8501d9bf9b961bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6040121
+project-id = 1165062

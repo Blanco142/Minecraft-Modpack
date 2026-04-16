@@ -1,0 +1,12 @@
+name = "Reece modpack"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "72d8ed6b19e96264aff9c0ab49a8e9ccf5b2b93cc7f7bec4567e48f598826c59"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

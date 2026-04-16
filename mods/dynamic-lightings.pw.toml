@@ -1,0 +1,13 @@
+name = "Dynamic Lighting (Entities)"
+filename = "dynamic-lighting-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "51f224f0337613c162362dd490891123723a8d80"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7447083
+project-id = 1426436

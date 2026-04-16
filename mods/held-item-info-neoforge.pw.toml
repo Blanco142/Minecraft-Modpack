@@ -1,0 +1,13 @@
+name = "Held item info ( Neoforge Port)"
+filename = "held_item_info-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "508218e8e386e6b01a0c45a92bc84cc45dd3c280"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6979982
+project-id = 1314429
