@@ -1203,11 +1203,6 @@ hash = "9dae4d133b30d6775fce8b29cc8094201a6b8ea6809687f5eeb6d13fced46f74"
 metafile = true
 
 [[files]]
-file = "mods/essential-mod.pw.toml"
-hash = "b23842d4e7b6eb7b5ecfb8984d3fa4a80753e355670d5af5ab0dfd24d7ce8abd"
-metafile = true
-
-[[files]]
 file = "mods/falling-leaves-forge.pw.toml"
 hash = "e2396d07e1058482e0792e8c7aa5c90cf54e198c8c4bf64293ec6b5abe5e91a2"
 metafile = true
